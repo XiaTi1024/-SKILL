@@ -51,37 +51,22 @@
 
 ## 🚀 快速开始
 
-### 安装方法
+### 安装SKILL
 
-#### 方法一：手动安装（推荐）
 1. 下载此仓库的 `SKILL.md` 文件
-2. 复制到你的TRAE技能目录：
-   ```
-   Windows: C:\Users\<你的用户名>\.trae-cn\skills\course-review-helper\
-   macOS/Linux: ~/.trae-cn/skills/course-review-helper/
-   ```
-   最终文件路径应为：
+2. 将文件复制到你的TRAE技能目录：
    ```
    Windows: C:\Users\<你的用户名>\.trae-cn\skills\course-review-helper\SKILL.md
+   macOS/Linux: ~/.trae-cn/skills/course-review-helper/SKILL.md
    ```
 3. 重启TRAE IDE或刷新技能列表
 
-#### 方法二：在TRAE中直接使用
-如果你不想手动下载，也可以在TRAE IDE中输入以下内容（但每次都要输入，比较麻烦）：
-```
-我现在需要复习【课程名称】，所有复习资料都在【文件夹路径】中。
-请帮我按照以下流程生成复习笔记：
-1. 先扫描文件夹，列出所有PPT、PDF、图片文件
-2. 让我选择复习范围（A：仅PPT；B：指定文件；C：全部资料）
-3. 按章节生成Obsidian笔记，包含知识点总结、考点清单、自测题库
-4. 笔记格式要求：使用frontmatter、双向链接、折叠答案
-```
-
-**为什么推荐手动安装？**
-手动安装后，你只需要一句话就能触发整个流程：
+安装完成后，在TRAE中输入：
 ```
 使用 course-review-helper 技能复习我的课程
 ```
+
+即可开始使用。
 
 ### 使用前准备
 
