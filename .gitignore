@@ -1,0 +1,28 @@
+# 操作系统生成文件
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# 编辑器和IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 临时文件
+*.tmp
+*.temp
+*.log
+
+# 测试文件
+test/
+*.test.md
+
+# 个人笔记（可选）
+personal_notes/
+my_reviews/
