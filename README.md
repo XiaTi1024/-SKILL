@@ -1,6 +1,8 @@
-# Course Review Helper SKILL 📚
+# 期末周速成 SKILL 📚
 
 智能课程复习助手 - 全学科通用的TRAE IDE技能，支持多格式资料混合输入，自动生成Obsidian兼容的复习笔记。
+
+##注:所有文档都由我用ai生成
 
 ## 🤔 为什么会有这个项目？
 
@@ -55,18 +57,7 @@
 
 1. 下载此仓库的 `SKILL.md` 文件
 2. 将文件复制到你的TRAE技能目录：
-   ```
-   Windows: C:\Users\<你的用户名>\.trae-cn\skills\course-review-helper\SKILL.md
-   macOS/Linux: ~/.trae-cn/skills/course-review-helper/SKILL.md
-   ```
-3. 重启TRAE IDE或刷新技能列表
-
-安装完成后，在TRAE中输入：
-```
-使用 course-review-helper 技能复习我的课程
-```
-
-即可开始使用。
+3. 我自己用的trea CN ,其他平台的应该也都能用,甚至可能更好
 
 ### 使用前准备
 
@@ -286,9 +277,6 @@ Obsidian双向链接可能指向不存在的笔记。**建议**：
 4. 推送到分支 (`git push origin feature/AmazingFeature`)
 5. 开启 Pull Request
 
-## 📄 许可证
-
-本项目采用 MIT 许可证 - 详见 [LICENSE](LICENSE) 文件
 
 ## 💬 常见问题
 
@@ -301,9 +289,6 @@ A: 目前主要支持中文和英文，可根据课程内容自动切换。
 ### Q: 可以修改生成的笔记格式吗？
 A: 可以在对话中提出调整要求，例如"多出点计算题""侧重论述"等，技能会即时响应。
 
-## 📮 联系方式
-
-如有问题或建议，请提交 [GitHub Issue](https://github.com/XiaTi1024/course-review-helper/issues)
 
 ---
 
